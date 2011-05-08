@@ -1,0 +1,1066 @@
+{
+
+    meta: {
+        code: 200
+    }
+    response: {
+        checkins: {
+            count: 1553
+            items: [
+                {
+                    id: "4dc4fc5cc65b89d3ca62c652"
+                    createdAt: 1304755292
+                    type: "checkin"
+                    shout: "This party's dead anyway, man."
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4b183095f964a52096ce23e3"
+                        name: "Old Market Lofts"
+                        contact: { }
+                        location: {
+                            address: "1023 Jones St"
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68102"
+                            lat: 41.2533514
+                            lng: -95.9300153
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d103941735"
+                                name: "Home"
+                                pluralName: "Homes"
+                                icon: "https://foursquare.com/img/categories/building/home.png"
+                                    parents: [
+                                    "Homes, Work, Others"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 1366
+                            usersCount: 92
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc4f57cd4c0ad9c0f7bf813"
+                    createdAt: 1304753532
+                    type: "checkin"
+                    shout: "So drunk."
+                    isMayor: true
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4d96cfd797d06ea8ff7e0c0b"
+                        name: "Hot Dog Stand"
+                        contact: { }
+                        location: {
+                            address: "420 S 10th St"
+                            city: "Omaha"
+                            state: "Nebraska"
+                            postalCode: "68102"
+                            lat: 41.25558491666666
+                            lng: -95.929368
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d1cb941735"
+                                name: "Food Truck"
+                                pluralName: "Food Trucks"
+                                icon: "https://foursquare.com/img/categories/food/streetfood.png"
+                                parents: [
+                                    "Food"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 8
+                            usersCount: 5
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc4d25aae608779d12c1958"
+                    createdAt: 1304744538
+                    type: "checkin"
+                    shout: "Not so much in the mood for this, but I'mma give it a go."
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4d2cedc488e237044ce034c7"
+                        name: "CAPiTOL Lounge & Supper Club"
+                        contact: {
+                            phone: "4027089988"
+                        }
+                        location: {
+                            address: "1011 Capitol Ave"
+                            city: "Omaha"
+                            state: "Nebraska"
+                            postalCode: "68102"
+                            lat: 41.2606116
+                            lng: -95.9296465
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d121941735"
+                                name: "Lounge"
+                                pluralName: "Lounges"
+                                icon: "https://foursquare.com/img/categories/nightlife/lounge.png"
+                                parents: [
+                                    "Nightlife Spots"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 316
+                            usersCount: 177
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc4bee218387d1bd52c5030"
+                    createdAt: 1304739554
+                    type: "checkin"
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4b0190dff964a5207a4322e3"
+                        name: "Rock Bottom"
+                        contact: {
+                            phone: "4026149333"
+                            twitter: "GoldMedalTap"
+                        }
+                        location: {
+                            address: "1101 Harney St."
+                            crossStreet: "11th"
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68102"
+                            lat: 41.256183
+                            lng: -95.930982
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d14e941735"
+                                name: "American Restaurant"
+                                pluralName: "American Restaurants"
+                                icon: "https://foursquare.com/img/categories/food/default.png"
+                                parents: [
+                                    "Food"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 709
+                            usersCount: 442
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc43c417d8b14fb460bc4b3"
+                    createdAt: 1304706113
+                    type: "checkin"
+                    shout: "Stiiiiillllll dragging. Needs more coffee."
+                    isMayor: true
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4ad72876f964a520d90821e3"
+                        name: "Union Pacific"
+                        contact: {
+                            phone: "4025545000"
+                            twitter: "UnionPacific"
+                        }
+                        location: {
+                            address: "1400 Douglas St."
+                            crossStreet: "14th and Douglas St."
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68179"
+                            lat: 41.259172
+                            lng: -95.93518
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d124941735"
+                                name: "Office"
+                                pluralName: "Offices"
+                                icon: "https://foursquare.com/img/categories/building/default.png"
+                                parents: [
+                                    "Homes, Work, Others"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 1723
+                            usersCount: 134
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc422fc887717c880019877"
+                    createdAt: 1304699644
+                    type: "checkin"
+                    shout: "Hungover sushi friday."
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4ad54ab5f964a520b80221e3"
+                        name: "Blue Sushi Sake Grill Old Market"
+                        contact: {
+                            phone: "4024085566"
+                            twitter: "BlueSushiOmaha"
+                        }
+                        location: {
+                            address: "416 S 12th St"
+                            crossStreet: "btw Howard & Harney Streets"
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68102"
+                            country: "USA"
+                            lat: 41.255865
+                            lng: -95.932194
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d11c941735"
+                                name: "Sake Bar"
+                                pluralName: "Sake Bars"
+                                icon: "https://foursquare.com/img/categories/nightlife/default.png"
+                                parents: [
+                                    "Nightlife Spots"
+                                ]
+                                primary: true
+                            }
+                            {
+                                id: "4bf58dd8d48988d116941735"
+                                name: "Bar"
+                                pluralName: "Bars"
+                                icon: "https://foursquare.com/img/categories/nightlife/default.png"
+                                parents: [
+                                    "Nightlife Spots"
+                                ]
+                            }
+                            {
+                                id: "4bf58dd8d48988d111941735"
+                                name: "Japanese Restaurant"
+                                pluralName: "Japanese Restaurants"
+                                icon: "https://foursquare.com/img/categories/food/default.png"
+                                parents: [
+                                    "Food"
+                                ]
+                            }
+                            {
+                                id: "4bf58dd8d48988d1d2941735"
+                                name: "Sushi Restaurant"
+                                pluralName: "Sushi Restaurants"
+                                icon: "https://foursquare.com/img/categories/food/sushi.png"
+                                parents: [
+                                    "Food"
+                                ]
+                            }
+                        ]
+                        verified: true
+                        stats: {
+                            checkinsCount: 2061
+                            usersCount: 972
+                        }
+                        url: "http://www.bluesushisakegrill.com"
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc40307c65b89d3ca49068b"
+                    createdAt: 1304691463
+                    type: "checkin"
+                    shout: "Hydrate."
+                    isMayor: true
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4ad72876f964a520d90821e3"
+                        name: "Union Pacific"
+                        contact: {
+                            phone: "4025545000"
+                            twitter: "UnionPacific"
+                        }
+                        location: {
+                            address: "1400 Douglas St."
+                            crossStreet: "14th and Douglas St."
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68179"
+                            lat: 41.259172
+                            lng: -95.93518
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d124941735"
+                                name: "Office"
+                                pluralName: "Offices"
+                                icon: "https://foursquare.com/img/categories/building/default.png"
+                                parents: [
+                                    "Homes, Work, Others"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 1723
+                            usersCount: 134
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc39c55d22dafda2f76c375"
+                    createdAt: 1304665173
+                    type: "checkin"
+                    shout: "Gotta regret something, right?"
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4d93afb029c637043c8f0ed7"
+                        name: "Pepperjax Grill"
+                        contact: { }
+                        location: {
+                            address: "13th n Howard"
+                            city: "Omaha"
+                            state: "Nebraska"
+                            postalCode: "68102"
+                            lat: 41.25458478927612
+                            lng: -95.93366324901581
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d14e941735"
+                                name: "American Restaurant"
+                                pluralName: "American Restaurants"
+                                icon: "https://foursquare.com/img/categories/food/default.png"
+                                parents: [
+                                    "Food"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 125
+                            usersCount: 74
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc387c1d164eb9c9fbf390b"
+                    createdAt: 1304659905
+                    type: "checkin"
+                    shout: "I already hate tomorrow."
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4c47248e76d72d7fdb333c4d"
+                        name: "Roja Mexican Grill + Margarita Bar Old Market"
+                        contact: {
+                            phone: "4023469190"
+                            twitter: "RojaMexGrill"
+                        }
+                        location: {
+                            address: "1212 Harney St."
+                            crossStreet: "at 12th St"
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68102"
+                            lat: 41.2565377
+                            lng: -95.9320548
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d1c1941735"
+                                name: "Mexican Restaurant"
+                                pluralName: "Mexican Restaurants"
+                                icon: "https://foursquare.com/img/categories/food/default.png"
+                                parents: [
+                                    "Food"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: true
+                        stats: {
+                            checkinsCount: 968
+                            usersCount: 543
+                        }
+                        url: "http://www.rojagrill.com"
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc36d3bc65b89d3ca3bfa92"
+                    createdAt: 1304653115
+                    type: "checkin"
+                    shout: "High Life is Mexican, right?"
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4ad4f295f964a520b1fe20e3"
+                        name: "The Dubliner"
+                        contact: { }
+                        location: {
+                            address: "1205 Harney Street"
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68102"
+                            lat: 41.2565086
+                            lng: -95.9320861
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d116941735"
+                                name: "Bar"
+                                pluralName: "Bars"
+                                icon: "https://foursquare.com/img/categories/nightlife/default.png"
+                                parents: [
+                                    "Nightlife Spots"
+                                ]
+                                primary: true
+                            }
+                            {
+                                id: "4bf58dd8d48988d11b941735"
+                                name: "Pub"
+                                pluralName: "Pubs"
+                                icon: "https://foursquare.com/img/categories/nightlife/default.png"
+                                parents: [
+                                    "Nightlife Spots"
+                                ]
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 716
+                            usersCount: 404
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc34d8bd4c0ad9c0f532e98"
+                    createdAt: 1304645003
+                    type: "checkin"
+                    shout: "For once, not the last stop of the night."
+                    isMayor: true
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4afd9158f964a520a92822e3"
+                        name: "eat the worm"
+                        contact: {
+                            phone: "4026142440"
+                        }
+                        location: {
+                            address: "1213 howard street"
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68102"
+                            lat: 41.2554527
+                            lng: -95.9326571
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d1c1941735"
+                                name: "Mexican Restaurant"
+                                pluralName: "Mexican Restaurants"
+                                icon: "https://foursquare.com/img/categories/food/default.png"
+                                parents: [
+                                    "Food"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 575
+                            usersCount: 316
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc33ce7887717c87fec35c4"
+                    createdAt: 1304640743
+                    type: "checkin"
+                    shout: "I will have cinco drinks."
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4b05d2f2f964a520f8e322e3"
+                        name: "Sullivan's Steakhouse"
+                        contact: {
+                            phone: "4023420077"
+                        }
+                        location: {
+                            address: "222 S 15th St"
+                            crossStreet: "at Farnam St"
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68102"
+                            lat: 41.2584328
+                            lng: -95.9358472
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d1cc941735"
+                                name: "Steakhouse"
+                                pluralName: "Steakhouses"
+                                icon: "https://foursquare.com/img/categories/food/steakhouse.png"
+                                parents: [
+                                    "Food"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 386
+                            usersCount: 180
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc32380887717c87fe95927"
+                    createdAt: 1304634240
+                    type: "checkin"
+                    shout: "Just looking at that pizza made me a little fatter."
+                    isMayor: true
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4ce31e8327a66ea861723394"
+                        name: "Anytime Fitness"
+                        contact: {
+                            phone: "4029912333"
+                        }
+                        location: {
+                            address: "1027 Jones St"
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68102"
+                            lat: 41.2533459
+                            lng: -95.93006
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d176941735"
+                                name: "Gym"
+                                pluralName: "Gyms"
+                                icon: "https://foursquare.com/img/categories/building/gym.png"
+                                parents: [
+                                    "Homes, Work, Others"
+                                    "Gyms or Fitness Centers"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 114
+                            usersCount: 12
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc31cedd4c0ad9c0f4ddd43"
+                    createdAt: 1304632557
+                    type: "checkin"
+                    shout: "Frozen pizza and cat food. Guess who's the single-est guy in the store."
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4aea2335f964a520aeb921e3"
+                        name: "Patrick's Market"
+                        contact: {
+                            phone: "4028841600"
+                        }
+                        location: {
+                            address: "1416 Howard St"
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68102"
+                            lat: 41.255791
+                            lng: -95.935446
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d118951735"
+                                name: "Grocery Store"
+                                pluralName: "Grocery Stores"
+                                icon: "https://foursquare.com/img/categories/shops/food_grocery.png"
+                                parents: [
+                                    "Shops"
+                                    "Food and Drink Shops"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 609
+                            usersCount: 111
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 2
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc2df01d1643ed27a5980cd"
+                    createdAt: 1304616705
+                    type: "checkin"
+                    shout: "Plotting."
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4b311f74f964a5209d0025e3"
+                        name: "Starbucks"
+                        contact: {
+                            phone: "4023424486"
+                            twitter: "starbucks"
+                        }
+                        location: {
+                            address: "222 S 15th St Ste 101n"
+                            crossStreet: "at Douglas St"
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68102"
+                            country: "USA"
+                            lat: 41.2584328
+                            lng: -95.9358472
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d1e0931735"
+                                name: "Coffee Shop"
+                                pluralName: "Coffee Shops"
+                                icon: "https://foursquare.com/img/categories/food/coffeeshop.png"
+                                parents: [
+                                    "Food"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: true
+                        stats: {
+                            checkinsCount: 1494
+                            usersCount: 279
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 2
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc2c77245ddd5b5b6b43aa4"
+                    createdAt: 1304610674
+                    type: "checkin"
+                    isMayor: true
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4ad72876f964a520d90821e3"
+                        name: "Union Pacific"
+                        contact: {
+                            phone: "4025545000"
+                            twitter: "UnionPacific"
+                        }
+                        location: {
+                            address: "1400 Douglas St."
+                            crossStreet: "14th and Douglas St."
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68179"
+                            lat: 41.259172
+                            lng: -95.93518
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d124941735"
+                                name: "Office"
+                                pluralName: "Offices"
+                                icon: "https://foursquare.com/img/categories/building/default.png"
+                                parents: [
+                                    "Homes, Work, Others"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 1723
+                            usersCount: 134
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc206427d8b686fa474bfae"
+                    createdAt: 1304561218
+                    type: "checkin"
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4b68b538f964a52053882be3"
+                        name: "Cubby's"
+                        contact: { }
+                        location: {
+                            address: "601 S 13th St"
+                            crossStreet: "13th & Jackson"
+                            city: "Omaha"
+                            state: "NE"
+                            lat: 41.2544102
+                            lng: -95.9331759
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d113951735"
+                                name: "Gas Station or Garage"
+                                pluralName: "Gas Stations or Garages"
+                                icon: "https://foursquare.com/img/categories/shops/gas.png"
+                                parents: [
+                                    "Shops"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: true
+                        stats: {
+                            checkinsCount: 942
+                            usersCount: 261
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 1
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc1cf1f1838ada6b254f1c8"
+                    createdAt: 1304547103
+                    type: "checkin"
+                    shout: "Raging pretty hard today. Should make for a nice workout."
+                    isMayor: true
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4ce31e8327a66ea861723394"
+                        name: "Anytime Fitness"
+                        contact: {
+                            phone: "4029912333"
+                        }
+                        location: {
+                            address: "1027 Jones St"
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68102"
+                            lat: 41.2533459
+                            lng: -95.93006
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d176941735"
+                                name: "Gym"
+                                pluralName: "Gyms"
+                                icon: "https://foursquare.com/img/categories/building/gym.png"
+                                parents: [
+                                    "Homes, Work, Others"
+                                    "Gyms or Fitness Centers"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 114
+                            usersCount: 12
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc1c81a45dd6601d5ccb2eb"
+                    createdAt: 1304545306
+                    type: "checkin"
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4ad4f296f964a520ccfe20e3"
+                        name: "Gene Leahy Mall"
+                        contact: { }
+                        location: {
+                            address: "1203 Farnam Street"
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68102"
+                            lat: 41.257562
+                            lng: -95.931962
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d163941735"
+                                name: "Park"
+                                pluralName: "Parks"
+                                icon: "https://foursquare.com/img/categories/parks_outdoors/default.png"
+                                parents: [
+                                    "Great Outdoors"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 415
+                            usersCount: 152
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 0
+                        items: [ ]
+                    }
+                }
+                {
+                    id: "4dc1678ed4c07bbdf7740597"
+                    createdAt: 1304520590
+                    type: "checkin"
+                    shout: "I don't always test my code, but when I do, I do it in production."
+                    isMayor: true
+                    timeZone: "America/Chicago"
+                    venue: {
+                        id: "4ad72876f964a520d90821e3"
+                        name: "Union Pacific"
+                        contact: {
+                            phone: "4025545000"
+                            twitter: "UnionPacific"
+                        }
+                        location: {
+                            address: "1400 Douglas St."
+                            crossStreet: "14th and Douglas St."
+                            city: "Omaha"
+                            state: "NE"
+                            postalCode: "68179"
+                            lat: 41.259172
+                            lng: -95.93518
+                        }
+                        categories: [
+                            {
+                                id: "4bf58dd8d48988d124941735"
+                                name: "Office"
+                                pluralName: "Offices"
+                                icon: "https://foursquare.com/img/categories/building/default.png"
+                                parents: [
+                                    "Homes, Work, Others"
+                                ]
+                                primary: true
+                            }
+                        ]
+                        verified: false
+                        stats: {
+                            checkinsCount: 1723
+                            usersCount: 134
+                        }
+                        todos: {
+                            count: 0
+                        }
+                    }
+                    photos: {
+                        count: 0
+                        items: [ ]
+                    }
+                    comments: {
+                        count: 1
+                        items: [ ]
+                    }
+                }
+            ]
+        }
+    }
+
+}

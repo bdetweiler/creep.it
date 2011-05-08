@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "code": 200 
+    },
+    "response": {
+        "checkins": {
+            "count": 1553,
+            "items": [
+                {
+                    "id": "4dc4fc5cc65b89d3ca62c652",
+                    "createdAt": 1304755292,
+                    "type": "checkin",
+                    "shout": "This party's dead anyway, man.",
+                    "timeZone": "America/Chicago",
+                    "venue": {
+                        "id": "4b183095f964a52096ce23e3",
+                        "name": "Old Market Lofts",
+                        "contact": {
+                            
+                        },
+                        "location": {
+                            "address": "1023 Jones St",
+                            "city": "Omaha",
+                            "state": "NE",
+                            "postalCode": "68102",
+                            "lat": 41.2533514,
+                            "lng": -95.9300153 
+                        },
+                        "categories": [
+                            {
+                                "id": "4bf58dd8d48988d103941735",
+                                "name": "Home",
+                                "pluralName": "Homes",
+                                "icon": "https://foursquare.com/img/categories/building/home.png",
+                                "parents": [
+                                    "Homes, Work, Others" 
+                                ],
+                                "primary": true 
+                            } 
+                        ],
+                        "verified": false,
+                        "stats": {
+                            "checkinsCount": 1366,
+                            "usersCount": 92 
+                        },
+                        "todos": {
+                            "count": 0 
+                        } 
+                    },
+                    "photos": {
+                        "count": 0,
+                        "items": [
+                            
+                        ] 
+                    },
+                    "comments": {
+                        "count": 0,
+                        "items": [
+                            
+                        ] 
+                    } 
+                } 
+            ] 
+        } 
+    }
+}
